@@ -1,4 +1,4 @@
-# technologies-that-are-explored
+# technologies-that-i-explored
 The samples of the technologies that I explored.
 
 Search for keywords please.   
